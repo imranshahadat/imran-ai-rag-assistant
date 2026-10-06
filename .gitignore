@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets
+.env
+.env.*
+*.key
+secrets.json
+
+# Private documents
+*.pdf
+
+# Local files
+pdf_hash.txt
+
+# OS
+.DS_Store
+Thumbs.db
