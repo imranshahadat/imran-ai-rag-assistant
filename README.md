@@ -1,7 +1,7 @@
-Imran AI — Professional RAG Assistant
-A Retrieval-Augmented Generation (RAG) based AI assistant designed to answer questions about Imran Ali's professional background using information from a verified professional profile.
+RAG Assistant
+A Retrieval-Augmented Generation (RAG) based AI assistant designed to answer questions for  Imran  professional background using information from a verified professional profile.
 Overview
-Imran AI is a focused conversational AI assistant that uses Retrieval-Augmented Generation to provide grounded answers about Imran Ali's professional experience, technical skills, education, projects, and other relevant professional information.
+I  focused conversational AI assistant that uses Retrieval-Augmented Generation to provide grounded answers about Imran Ali's professional experience, technical skills, education, projects, and other relevant professional information.
 The system retrieves relevant information from the knowledge base before generating a response. This approach helps reduce hallucinations and prevents the language model from relying on unsupported information.
 
 The project was initially developed and tested in Google Colab and uses Pinecone for vector storage and Novita AI for language model inference.
